@@ -1,0 +1,47 @@
+body{
+    background-image: url(./img/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+form{
+    border: 1px solid rgb(250, 225, 225,0.6);
+    height: 350px;
+    width: 300px;
+    margin: 120px auto;
+    backdrop-filter: blur(3px);
+    background-color: rgba(197, 197, 197, 0.2);
+    border-radius: 10px;
+}
+input{
+    height: 30px;
+    width: 200px;
+    border-radius: 20px;
+    margin: 5px;
+    border: none;
+    padding: 8px;
+}
+p{
+    color: white;
+    font-size: 20px;
+}
+a{
+    color:darkblue;
+    text-decoration: none;
+    transition: 0.1s;
+}
+a:hover{
+    color: red;
+}
+button{
+    height: 40px;    
+    width: 75px;
+    border-radius: 20px ;
+    font-size: 15px;
+    background-color: rgb(114, 226, 226);
+    border: none;
+    font-weight: bold;
+}
+
+
