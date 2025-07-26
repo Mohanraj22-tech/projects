@@ -1,0 +1,22 @@
+#countlable{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+#btncontainer{
+    text-align: center;
+}
+.buttons{
+    padding: 30px,40px;
+    font-size: 1.5em;
+    color: white;
+    background-color: rgb(126, 126, 238);
+    border-radius: 15px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.buttons:hover{
+background-color:blue;
+}
